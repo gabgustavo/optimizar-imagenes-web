@@ -14,7 +14,7 @@ El script tiene dos carpetas que se deben poner atención
 > NOTA: Las imágenes de la primera carpeta serán removidas a medida se optimicen  
 > NOTA: Se debe tener en cuenta que este es un sistema en python
 
-* Se debe tener instaldo adicionalmente `from PIL import Image`
+* Se debe tener instaldo adicionalmente `pip install pillow`
 
 ![](./doc/para-obtimizar.jpg)
 
